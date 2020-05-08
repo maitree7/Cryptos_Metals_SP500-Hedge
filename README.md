@@ -29,15 +29,17 @@ Also, with the pandemic (COVID-19) situation, there are uncertainities linked in
 * Due to pandemic situation, all the assets show significant drop starting March 2020. 
 * Commodities i.e. Gold has grown significantly from around $1300 to $ 1700. But as all other stocks, March 2020 had seen major drop to $1479.
 
+<<<<<<< HEAD
 ![Stock_prices](Images/Stock_prices.PNG)
 
 ![News_Events](Images/News_Events.PNG)
 
 #### What are the risk profiles like for each column.
+=======
+#### Portfolio Risk Evaluation
+>>>>>>> de9ff7f928786e15ff0f8da15f0b74f7a2f05291
 
 * Using STD, BTC is by far the riskiest asset of this past year, with ETH coming in a distant second. Silver and the SP500 had extremely similiar risk profiles, this is significant because the SP500 returns are from aggregated data, one would expect the low risk profile. Silver, as one commodity moved very little in the past year. 
-
-#### Question 3: After analyzing risk and prices, what do the return profiles look like for the year? 
 
 * BTC still has the best returns, while gold is a distant second. Silver and the SP500 track very closely, as do BTCASH and ETH which are near the bottom. 
 
