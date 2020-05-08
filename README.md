@@ -148,6 +148,15 @@ Sharpe Ratio
 0.9469891810355706
 ```
 
+*Multiple Random Simulation*
+
+![Monte_carlo_1](Images/Monte_carlo_1.PNG)
+
+*Multiple Random Simulation with highest Sharpe Ratio*
+
+![Monte_carlo_highest_sharpe_ratio](Images/Monte_carlo_highest_sharpe_ratio.PNG)
+
+
 
 
 
