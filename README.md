@@ -2,6 +2,8 @@
 
 ## Crypto, Commodities, & S&P 500 Correlation: A Brief Analysis of 1 year. 
 
+![Analysis_image](Images/Analysis_image.PNG)
+
 ### Background
 
 Portfolio Optimization is used for risk-averse investors to construct portfolios to optimize or maximize expected return based on a given level of market risk, emphasizing that risk is an inherent part of higher reward
@@ -26,6 +28,10 @@ Also, with the pandemic (COVID-19) situation, there are uncertainities linked in
 * Analysis shows that BTC-USD was the most volatile across the year
 * Due to pandemic situation, all the assets show significant drop starting March 2020. 
 * Commodities i.e. Gold has grown significantly from around $1300 to $ 1700. But as all other stocks, March 2020 had seen major drop to $1479.
+
+![Stock_prices](Images/Stock_prices.PNG)
+
+![News_Events](Images/News_Events.PNG)
 
 #### What are the risk profiles like for each column.
 
