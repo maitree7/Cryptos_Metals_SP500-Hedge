@@ -160,6 +160,8 @@ Sharpe Ratio
 
 * Calculate *Efficient Frontier* - Set of optimal portfolios that offer the highest expected return for a defined level of risk or the lowest risk for a given level of expected return. 
 
+![Frontier_Volatility](Images/Frontier_Volatility.PNG)
+
 * Use of Scipy library to calculate the results wherein we minimize sharpe ratio, keep the weights within 1 and use *Sequential Least Squares Programming (SLSQP) method*
 
 * Optimal Results - 
@@ -168,6 +170,8 @@ Returns - 0.30
 Volatility - 0.19
 Sharpe Ratio - 1.59
 ```
+
+
 
 
 
