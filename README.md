@@ -162,6 +162,14 @@ Sharpe Ratio
 
 * Use of Scipy library to calculate the results wherein we minimize sharpe ratio, keep the weights within 1 and use *Sequential Least Squares Programming (SLSQP) method*
 
+* Optimal Results - 
+```
+Returns - 0.30
+Volatility - 0.19
+Sharpe Ratio - 1.59
+```
+
+
 
 
 
