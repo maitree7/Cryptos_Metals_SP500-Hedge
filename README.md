@@ -150,6 +150,16 @@ Max Sharpe Ratio - 1.246
 
 ![Frontier_Volatility](Images/Frontier_Volatility.PNG)
 
+* Optimal Weights 
+```
+Bitcoin Cash - 0.00
+Bitcoin - 0.19
+Etherum - 0.00
+Gold - 0.81
+Silver - 0.00
+SP500 - 0.00
+```
+
 * Use of Scipy library to calculate the results wherein we minimize sharpe ratio, keep the weights within 1 and use *Sequential Least Squares Programming (SLSQP) method*
 
 * Optimal Results - 
