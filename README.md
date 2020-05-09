@@ -123,25 +123,9 @@ Portfolio Optimization is used for risk-averse investors to construct portfolios
 *Single Random Simulation*
 
 * Set our weights to a random numpy array 
-```
-Random Weights:
-[0.01262379 0.25184389 0.2861888  0.04497061 0.32098708 0.43828485]
-```
 * Rebalance the weights so they add up to one
-```
-Rebalance
-[0.00931715 0.1858765  0.21122519 0.03319112 0.23690849 0.32348156]
-```
 * Calculate the expected portfolio return
-```
-Expected Portfolio Return
-0.31545060515252904
-```
 * Calculate the expected portfolio volatility
-```
-Expected Volatility
-0.33310898526588356
-```
 * Calculate the Sharpe Ratio
 ```
 Sharpe Ratio
@@ -153,6 +137,10 @@ Sharpe Ratio
 ![Monte_carlo_1](Images/Monte_carlo_1.PNG)
 
 *Multiple Random Simulation with highest Sharpe Ratio*
+
+```
+Max Sharpe Ratio - 1.246
+```
 
 ![Monte_carlo_highest_sharpe_ratio](Images/Monte_carlo_highest_sharpe_ratio.PNG)
 
